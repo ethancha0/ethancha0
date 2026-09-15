@@ -4,7 +4,6 @@
 I'm a Software Engineer Major at UC Irvine!
 
 Currently, I'm: 
-- 💊 Building a pharmaceutical document parser for Pfizer
 - 🐜 Leading a team to build [ZotMeet](https://zotmeet.com/) to help UCI students time sync and book study rooms
 - 🌆 Developing software to drive fundraising, awareness, and corporate outreach for [ICS Student Council](https://studentcouncil.ics.uci.edu/)
 
