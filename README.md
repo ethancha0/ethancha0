@@ -3,9 +3,13 @@
 
 I'm a Software Engineer Major at UC Irvine!
 
-Currently, I'm: 
-- 🐜 Leading a team to build [ZotMeet](https://zotmeet.com/) to help UCI students time sync and book study rooms
-- 🌆 Developing software to drive fundraising, awareness, and corporate outreach for [ICS Student Council](https://studentcouncil.ics.uci.edu/)
+**Currently, I'm:**<br>
+಄ 🐜 Leading a team to build [ZotMeet](https://zotmeet.com/) to help UCI students time sync and book study rooms<br>
+಄ 🌆 Developing software to drive fundraising, awareness, and corporate outreach for [ICS Student Council](https://studentcouncil.ics.uci.edu/)<br>
+
+**Some projects I built (and actually use):**<br>
+಄ [Fretly](https://github.com/ethancha0/learn-guitar) to gamify the learning process for my first instrument (bass guitar)<br>
+಄ [Cadence](https://github.com/ethancha0/cadence) to plan my work sessions
 
 ---
 
